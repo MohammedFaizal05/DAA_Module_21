@@ -18,7 +18,7 @@ Program to implement the Pattern Matching.
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def BF(s1,s2):
     i = 0
     j = 0
